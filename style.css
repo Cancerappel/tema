@@ -1,0 +1,52 @@
+body {
+    margin: auto;
+    padding: 0;
+}
+.titlu {
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    margin: 0 0 20px 0;
+    font-weight: bold;
+    border-bottom: 1px solid;
+    border-bottom-color: gray;
+    margin-bottom: 0px;
+}
+
+.container {
+    display: flex;
+}
+
+.categorii ul {
+    font-size: 20px;
+    text-decoration-line: underline;
+    padding: 10px;
+    
+}
+#categ-1{
+    padding:10px;
+}
+#Top-5 {
+    font-size:50px;
+}
+.categorii{
+    min-height: 100%;
+    width:33%;
+    border-right-color: gray;
+    border-right: 1px solid;
+}
+
+.Top-stiluri {
+    width:33%;
+    
+    border-right-color: gray;
+    border-right: 1px solid;
+}
+
+
+.Publicat {
+    width: 33%;
+    height:100%;
+}
